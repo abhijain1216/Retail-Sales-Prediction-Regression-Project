@@ -38,3 +38,39 @@ Rossmann operates over 3,000 drug stores in 7 European countries. Currently, Ros
 * **Promo2Since[Year/Week]** - describes the year and calendar week when the store started participating in Promo2
 * **PromoInterval** - describes the consecutive intervals Promo2 is started, naming the months the promotion is started anew. E.g. "Feb,May,Aug,Nov" means each round starts in February, May, August, November of any given year for that store
 
+### **Project Work flow**
+
+1. Importing Libraries
+
+2. Loading the Dataset
+
+3. Explore Dataset
+
+4. Data Wrangling
+
+5. Exploratory Data Analysis (EDA) 
+
+6. Hypothesis Testing
+
+7. Feature Engineering & Data Pre-processing
+
+8. Machine Learning Model Implementation
+
+9. Model Explainability
+
+10. Future Work
+
+11. Conclusions
+
+
+
+### *Python Libraries Used*
+
+* Numpy
+* Pandas
+* Matplotlib
+* Seaborn
+* Scikit-Learn
+* SciPy
+* Shap
+* Pylab
