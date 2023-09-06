@@ -38,7 +38,7 @@ Rossmann operates over 3,000 drug stores in 7 European countries. Currently, Ros
 * **Promo2Since[Year/Week]** - describes the year and calendar week when the store started participating in Promo2
 * **PromoInterval** - describes the consecutive intervals Promo2 is started, naming the months the promotion is started anew. E.g. "Feb,May,Aug,Nov" means each round starts in February, May, August, November of any given year for that store
 
-### **Project Work flow**
+### *Project Work flow*
 
 1. Importing Libraries
 
